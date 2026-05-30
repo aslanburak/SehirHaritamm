@@ -24,6 +24,8 @@
 
 Belediye yöneticileri tüm bildirimleri yönetici paneli üzerinden takip edebilir, durumlarını güncelleyebilir ve ilçe bazlı istatistikleri anlık olarak görüntüleyebilir.
 
+
+![Ana Sayfa](screenshots/anasayfa.png)
 ---
 ## 📬 Kaynak Kod Talebi
  
