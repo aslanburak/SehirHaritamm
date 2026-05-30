@@ -16,7 +16,21 @@
 
 ### 📌 Proje Hakkında
 
-**SehirHaritam**, vatandaşların şehirdeki altyapı sorunlarını (bozuk yol, arızalı sokak lambası, çöp, park hasarı vb.) harita üzerinden kolayca raporlayabildiği bir akıllı şehir web platformudur. Belediye yöneticileri bildirimleri yönetici paneli üzerinden takip edebilir, durumlarını güncelleyebilir ve çözüm fotoğrafı ekleyebilir.
+**SehirHaritam**, vatandaşların şehirdeki altyapı sorunlarını (bozuk yol, arızalı sokak lambası, çöp, park hasarı vb.) harita üzerinden kolayca raporlayabildiği bir akıllı şehir web platformudur.
+
+> 📍 **Tek tıkla anlık konum al** — Tarayıcı üzerinden kullanıcının gerçek zamanlı konumunu alarak haritada otomatik olarak işaretler. Manuel seçim de desteklenir.
+>
+> 📸 **Görsel kanıt yükle** — Vatandaş sorunu fotoğraflayıp bildirimine ekleyebilir. Belediye de çözüm sonrası fotoğraf yükleyerek süreci belgeler.
+
+Belediye yöneticileri tüm bildirimleri yönetici paneli üzerinden takip edebilir, durumlarını güncelleyebilir ve ilçe bazlı istatistikleri anlık olarak görüntüleyebilir.
+
+---
+## 📬 Kaynak Kod Talebi
+ 
+*Bu projenin kaynak kodları gizlidir.* Kod incelemek, referans almak veya iş birliği teklifi için LinkedIn veya e-posta üzerinden benimle iletişime geçebilirsiniz.
+
+---
+
 
 ### ✨ Özellikler
 
@@ -101,7 +115,13 @@ Proje **Clean Architecture** prensiplerine uygun olarak geliştirilmiştir. MVC 
 
 ### 📌 About the Project
 
-**SehirHaritam** (City Map) is a smart city web platform that enables citizens to report urban infrastructure issues — such as damaged roads, broken street lights, waste problems, or park damage — by selecting their location on an interactive map. Municipal administrators can then manage, process, and resolve these reports through a dedicated admin panel.
+**SehirHaritam** (City Map) is a smart city web platform that enables citizens to report urban infrastructure issues — such as damaged roads, broken street lights, waste problems, or park damage — directly on an interactive map.
+
+> 📍 **One-click live location** — Instantly captures the user's real-time GPS location via the browser and pins it on the map automatically. Manual selection is also supported.
+>
+> 📸 **Photo evidence upload** — Citizens can attach photos of the issue to their report. Municipalities can upload resolution photos to document completed fixes.
+
+Municipal administrators can track all reports, update statuses, and view real-time district-level statistics through a dedicated admin panel.
 
 ### ✨ Features
 
