@@ -2,7 +2,7 @@
 ### Smart City Issue Reporting Platform
 
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -101,7 +101,7 @@ Proje **Clean Architecture** prensiplerine uygun olarak geliştirilmiştir. MVC 
 
 ### 🛠️ Teknolojiler
 
-- **Backend:** ASP.NET Core Web API, ASP.NET Core MVC (.NET 8)
+- **Backend:** ASP.NET Core Web API, ASP.NET Core MVC (.NET 10)
 - **ORM:** Entity Framework Core
 - **Veritabanı:** PostgreSQL + PostGIS
 - **Harita:** Leaflet.js, OpenStreetMap
@@ -150,7 +150,7 @@ Built following **Clean Architecture** principles. The MVC and API layers are fu
 
 ### 🛠️ Tech Stack
 
-- **Backend:** ASP.NET Core Web API & MVC (.NET 8)
+- **Backend:** ASP.NET Core Web API & MVC (.NET 10)
 - **ORM:** Entity Framework Core
 - **Database:** PostgreSQL + PostGIS
 - **Mapping:** Leaflet.js, OpenStreetMap
