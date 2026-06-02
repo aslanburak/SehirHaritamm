@@ -73,6 +73,11 @@ Belediye yöneticileri tüm bildirimleri yönetici paneli üzerinden takip edebi
 
 ---
 
+**Bildirimler Sayfası**
+![Sorun Detay](screenshots/bildirimlerim.png)
+
+---
+
 **Belediye Yönetici Paneli — Genel Bakış**
 ![Belediye Paneli](screenshots/belediyepaneli.png)
 
