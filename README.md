@@ -49,7 +49,7 @@ Belediye yöneticileri tüm bildirimleri yönetici paneli üzerinden takip edebi
 ### 📸 Ekran Görüntüleri
 
 **Ana Sayfa**
-![Ana Sayfa](screenshots/anasayfa.png)
+![Ana Sayfa](screenshots/anasayfa.png).
 
 ---
 
